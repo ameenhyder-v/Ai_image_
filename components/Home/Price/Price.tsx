@@ -15,7 +15,7 @@ const Price = () => {
             Our Pricing Plans
           </h2>
           <p className="text-white font-medium text-opacity-75 mb-4">
-            We offer a range of pricing plans designed to meet your needs, whether you're an individual or a business. Choose a plan that fits your goals and start creating with AI-powered tools at your fingertips.
+            We offer a range of pricing plans designed to meet your needs, whether you&apos;re an individual or a business. Choose a plan that fits your goals and start creating with AI-powered tools at your fingertips.
           </p>
           <p className="text-white font-medium text-opacity-75">
             From basic access to premium features, each plan provides value and customer satisfaction. Pay only for what you need—no hidden fees.
